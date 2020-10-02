@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Level Generator/Scene/Level Generator.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
